@@ -5,7 +5,7 @@
 
 using namespace std; 
 
-vector<bool> visited(10001);
+vector<bool> visited(10001); //Avoid passing in pointers to functions
 
 bool dfs(vector<vector<int>> graph, int s, int d){
 
