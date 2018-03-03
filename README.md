@@ -1,1 +1,1 @@
-# C-Templates
+# C++Templates
